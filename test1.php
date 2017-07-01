@@ -14,3 +14,4 @@ public function __get($name)
 }
 
 
+new test2("testing new branch");
