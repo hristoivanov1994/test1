@@ -21,4 +21,4 @@ public function getSomething()
 }
 $test = new test();
 
-new test2("testing new branch");
+new test("testing newwwww branch");
